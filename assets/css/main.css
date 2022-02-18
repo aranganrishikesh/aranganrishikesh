@@ -1706,6 +1706,33 @@ button.icon.circle.fa-angle-left:before,
   font-size: 1.75rem;
 }
 
+.fa-figma {
+  background: url(/assets/css/svg/figma-brands.svg);
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  fill: aliceblue;
+  opacity: 75%;
+}
+
+.fa-python {
+  background: url(/assets/css/svg/python-brands.svg);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  fill: aliceblue;
+  opacity: 75%;
+}
+
+.fa-react {
+  background: url(/assets/css/svg/react-brands.svg);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  fill: aliceblue;
+  opacity: 75%;
+}
+
 input[type="submit"].icon.circle.fa-angle-right:before,
 input[type="reset"].icon.circle.fa-angle-right:before,
 input[type="button"].icon.circle.fa-angle-right:before,
